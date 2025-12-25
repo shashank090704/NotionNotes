@@ -192,7 +192,7 @@ class _NoteEditorPageState extends State<NoteEditorPage> {
                       boxShadow: isSelected
                           ? [
                               BoxShadow(
-                                color: color.withOpacity(0.5),
+                                color: color.withOpacity(0.1),
                                 blurRadius: 8,
                                 spreadRadius: 2,
                               ),
