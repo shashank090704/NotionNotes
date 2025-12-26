@@ -108,16 +108,10 @@ backend/
 ---
 
 
-## 📄 License
-
-MIT License - feel free to use this project for learning or personal use.
-
----
-
 
 **⭐ Star this repo if you found it helpful!**
 
 Made with ❤️ using Flutter & Node.js
 
-[Report Bug](https://github.com/yourusername/notionnotes/issues) · [Request Feature](https://github.com/yourusername/notionnotes/issues)
+[Report Bug](https://github.com/shashank090704/notionnotes/issues) · [Request Feature](https://github.com/shashank090704/notionnotes/issues)
 
