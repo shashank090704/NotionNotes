@@ -10,7 +10,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-47A248?logo=mongodb)
 
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ---
